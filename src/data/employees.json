@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "surname": "Korhonen",
+        "address": "Kaisaniemenkatu 1, 00100 Helsinki"
+    },
+    {
+        "id": 2,
+        "surname": "Virtanen",
+        "address": "Aleksanterinkatu 21, 00100 Helsinki"
+    },
+    {
+        "id": 3,
+        "surname": "Mäkinen",
+        "address": "Korkeavuorenkatu 34, 00130 Helsinki"
+    },
+    {
+        "id": 4,
+        "surname": "Nieminen",
+        "address": "Erottajankatu 7, 00130 Helsinki"
+    },
+    {
+        "id": 5,
+        "surname": "Mäkelä",
+        "address": "Fredrikinkatu 48, 00100 Helsinki"
+    },
+    {
+        "id": 6,
+        "surname": "Hämäläinen",
+        "address": "Keskuskatu 1, 00100 Helsinki"
+    },
+    {
+        "id": 7,
+        "surname": "Laine",
+        "address": "Mannerheimintie 22-24, 00100 Helsinki"
+    },
+    {
+        "id": 8,
+        "surname": "Heikkinen",
+        "address": "Aleksanterinkatu 15, 00100 Helsinki"
+    },
+    {
+        "id": 9,
+        "surname": "Kallio",
+        "address": "Pohjoisesplanadi 37, 00100 Helsinki"
+    },
+    {
+        "id": 10,
+        "surname": "Lehtinen",
+        "address": "Bulevardi 22-24, 00120 Helsinki"
+    },
+    {
+        "id": 11,
+        "surname": "Hiltunen",
+        "address": "Lauttasaarentie 50, 00200 Helsinki"
+    },
+    {
+        "id": 12,
+        "surname": "Järvinen",
+        "address": "Linnankoskenkatu 1, 00250 Helsinki"
+    },
+    {
+        "id": 13,
+        "surname": "Niemi",
+        "address": "Haukilahdenkatu 8, 02230 Espoo"
+    },
+    {
+        "id": 14,
+        "surname": "Tuominen",
+        "address": "Veneentekijäntie 7, 00210 Helsinki"
+    },
+    {
+        "id": 15,
+        "surname": "Koivistoinen",
+        "address": "Lapinmäentie 1, 00180 Helsinki"
+    },
+    {
+        "id": 16,
+        "surname": "Lindqvist",
+        "address": "Ahertajantie 5, 02100 Espoo"
+    },
+    {
+        "id": 17,
+        "surname": "Laine",
+        "address": "Pitkäniityntie 5, 02240 Espoo"
+    },
+    {
+        "id": 18,
+        "surname": "Jutila",
+        "address": "Rajatorpantie 8, 01600 Helsinki"
+    },
+    {
+        "id": 19,
+        "surname": "Kurki",
+        "address": "Myllymäentie 6, 02770 Espoo"
+    },
+    {
+        "id": 20,
+        "surname": "Karjalainen",
+        "address": "Lintuvaarantie 2, 02650 Espoo"
+    },
+    {
+        "id": 21,
+        "surname": "Kärkkäinen",
+        "address": "Laurinlahdentie 1, 02940 Espoo"
+    },
+    {
+        "id": 22,
+        "surname": "Leino",
+        "address": "Ruosilantie 2, 00390 Helsinki"
+    },
+    {
+        "id": 23,
+        "surname": "Holopainen",
+        "address": "Itämerenkatu 5, 00101 Helsinki"
+    },
+    {
+        "id": 24,
+        "surname": "Jokela",
+        "address": "Hietalahdenkatu 7, 00180 Helsinki"
+    },
+    {
+        "id": 25,
+        "surname": "Koivula",
+        "address": "Suluntie 3, 01280 Vantaa"
+    },
+    {
+        "id": 26,
+        "surname": "Mikkola",
+        "address": "Veneentekijäntie 9, 00210 Helsinki"
+    },
+    {
+        "id": 27,
+        "surname": "Saari",
+        "address": "Eskolantie 1, 01450 Vantaa"
+    },
+    {
+        "id": 28,
+        "surname": "Kivelä",
+        "address": "Rajatorpantie 5, 01600 Vantaa"
+    },
+    {
+        "id": 29,
+        "surname": "Laaksonen",
+        "address": "Konemiehentie 1, 02150 Espoo"
+    },
+    {
+        "id": 30,
+        "surname": "Kujala",
+        "address": "Talventie 2, 01280 Vantaa"
+    },
+    {
+        "id": 31,
+        "surname": "Korpi",
+        "address": "Pallotie 5, 01300 Vantaa"
+    },
+    {
+        "id": 32,
+        "surname": "Ahonen",
+        "address": "Kuusitie 10, 02700 Kauniainen"
+    },
+    {
+        "id": 33,
+        "surname": "Rantanen",
+        "address": "Kuusisaarentie 3, 02940 Espoo"
+    },
+    {
+        "id": 34,
+        "surname": "Lahti",
+        "address": "Kuusikkotie 5, 01230 Vantaa"
+    },
+    {
+        "id": 35,
+        "surname": "Kuusisto",
+        "address": "Meripellontie 11, 02210 Espoo"
+    },
+    {
+        "id": 36,
+        "surname": "Pulkkinen",
+        "address": "Peltolantie 2, 01300 Vantaa"
+    },
+    {
+        "id": 37,
+        "surname": "Järvinen",
+        "address": "Kuninkaankartanontie 7, 02770 Espoo"
+    },
+    {
+        "id": 38,
+        "surname": "Salmi",
+        "address": "Leivonkuja 4, 01730 Vantaa"
+    },
+    {
+        "id": 39,
+        "surname": "Lehtonen",
+        "address": "Puistotie 1, 02700 Kauniainen"
+    },
+    {
+        "id": 40,
+        "surname": "Kallio",
+        "address": "Lauttasaarentie 50, 00200 Helsinki"
+    },
+    {
+        "id": 41,
+        "surname": "Ahola",
+        "address": "Lummetie 1, 02100 Espoo"
+    },
+    {
+        "id": 42,
+        "surname": "Hänninen",
+        "address": "Tähtikuja 1, 01480 Vantaa"
+    },
+    {
+        "id": 43,
+        "surname": "Jutila",
+        "address": "Iso Roobertinkatu 3, 00120 Helsinki"
+    },
+    {
+        "id": 44,
+        "surname": "Saarela",
+        "address": "Kyllikinportti 2, 00240 Helsinki"
+    },
+    {
+        "id": 45,
+        "surname": "Nurmi",
+        "address": "Lepolantie 2, 02200 Espoo"
+    },
+    {
+        "id": 46,
+        "surname": "Laine",
+        "address": "Kankurinkatu 5, 05800 Hyvinkää"
+    },
+    {
+        "id": 47,
+        "surname": "Lindström",
+        "address": "Korkeavuorenkatu 21, 00130 Helsinki"
+    },
+    {
+        "id": 48,
+        "surname": "Mäkelä",
+        "address": "Mäkituvantie 2, 01620 Vantaa"
+    },
+    {
+        "id": 49,
+        "surname": "Tolvanen",
+        "address": "Mäkelänkatu 56, 00510 Helsinki"
+    },
+    {
+        "id": 50,
+        "surname": "Salo",
+        "address": "Kaivokatu 10, 00100 Helsinki"
+    },
+    {
+        "id": 51,
+        "surname": "Kinnunen",
+        "address": "Kanervatie 5, 04260 Kerava"
+    },
+    {
+        "id": 52,
+        "surname": "Mänty",
+        "address": "Nurmipolku 3, 04220 Kerava"
+    },
+    {
+        "id": 53,
+        "surname": "Pekkanen",
+        "address": "Riihenkulma 1, 04220 Kerava"
+    },
+    {
+        "id": 54,
+        "surname": "Ruuska",
+        "address": "Kilpimäentie 8, 04220 Kerava"
+    }
+]
